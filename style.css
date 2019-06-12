@@ -1,0 +1,27 @@
+.green {
+color:green;
+}
+.blue {
+color:blue;
+}
+.indented {
+    text-indent: 70px
+}
+.center {
+text-align: center;
+height= 100px;
+}
+#navigation {
+    background-color: red;
+    width : auto;
+    height: 100px;
+    width: auto;
+    text-align: center;
+    text-height: 100 px;
+}
+.main {
+    background-color: red;
+    width: 300px;
+    margin: 0 auto;
+    height: 50px;
+}
